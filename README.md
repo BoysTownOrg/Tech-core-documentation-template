@@ -18,7 +18,7 @@ _Please write exactly one sentence explaining what this software does. Update th
 ## What does this program do?
 This template is intended to provide a standard framework for documenting research software developed at Boys Town.
 
-_Please describe at a high level what this program is designed to do when used. Your target audience is other scientists and your goal is to tell them just enough information to decide whether they want to use this software for their own research. Aim for 3 - 4 sentences at most. Detailed descriptions belong in the project's associated [wiki](/BoysTownOrg/Tech-core-documentation-template/wiki)._
+_Please describe at a high level what this program is designed to do when used. Your target audience is other scientists and your goal is to tell them just enough information to decide whether they want to use this software for their own research. Aim for 3 - 4 sentences at most. Detailed descriptions belong in the project's associated [wiki](wiki)._
 
 ## What problem does this program solve?
 Software has been inconsistently documented in the past, which limits reuse of existing solutions and can make maintenance much harder in the future. It is difficult to fix bugs in software if we do not know what the intended behavior is.
